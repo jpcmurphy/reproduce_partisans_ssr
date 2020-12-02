@@ -13,5 +13,6 @@ The scripts reference a top-level (i.e. this level) folder _data/_, which should
 
 <br/>
 Versions of libaries used in model fitting: sme (v1.0.2); gamm4 (v0.2-6); mgcv (v1.8-28); lme4 (v1.1-23).
+<br/>
 
 The analyses rely on the [American National Election Studies Cumulative Data File (1948-2016)](https://electionstudies.org/data-center/anes-time-series-cumulative-data-file/) as of December 6, 2018. (ANES_CDF_VERSION:2018-Dec-06)
