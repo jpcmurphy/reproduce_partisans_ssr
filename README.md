@@ -11,9 +11,11 @@ Code to reproduce analyses in "[Issue Alignment and Partisanship in the American
 
 <br/>
 Versions of libaries used in model fitting: sme (v1.0.2); gamm4 (v0.2-6); mgcv (v1.8-28); lme4 (v1.1-23).
+
 <br/>
 
 The scripts reference a top-level (i.e. this level) folder _data/_, which should store both the raw ANES election file input and the SQLite database created/modified in __makeBaldGelData.R__ and __subgroupData.R__.
+
 <br/>
 
 The analyses rely on the [American National Election Studies Cumulative Data File (1948-2016)](https://electionstudies.org/data-center/anes-time-series-cumulative-data-file/) as of December 6, 2018. (ANES_CDF_VERSION:2018-Dec-06)
