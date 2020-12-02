@@ -1,6 +1,6 @@
 # partisans_revisit
 
-Code (as of February 2020) for "[Revisiting the Partisans without Constraint Thesis](https://osf.io/preprints/socarxiv/jex9k/)." Scripts should be run in following order to reproduce manuscript's analysis.
+Code to reproduxe analyses in "[Revisiting the Partisans without Constraint Thesis](https://osf.io/preprints/socarxiv/jex9k/)." Scripts should be run in following order.
 
 (1) __makeBaldGelData.R__      Makes main data set of inter-item correlations by year including item-domain indicators <br/>
 (2) __mixedFXsmoothsplines.R__      Mixed effects smoothing spline model for aggregate trend and graphs results <br/>
@@ -14,4 +14,4 @@ The scripts reference a top-level (i.e. this level) folder _data/_, which should
 <br/>
 Versions of libaries used in model fitting: sme (v1.0.2); gamm4 (v0.2-6); mgcv (v1.8-28); lme4 (v1.1-23).
 
-The analyses rely on the American National Election Studies Cumulative Data File (1948-2016) as of December 6, 2018. (ANES_CDF_VERSION:2018-Dec-06)
+The analyses rely on the [American National Election Studies Cumulative Data File (1948-2016)](https://electionstudies.org/data-center/anes-time-series-cumulative-data-file/) as of December 6, 2018. (ANES_CDF_VERSION:2018-Dec-06)
