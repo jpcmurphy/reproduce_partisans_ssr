@@ -1,6 +1,6 @@
 # partisans_revisit
 
-Code to reproduce analyses in "[Revisiting the Partisans without Constraint Thesis](https://osf.io/preprints/socarxiv/jex9k/)." Scripts should be run in following order.
+Code to reproduce analyses in "[Issue Alignment and Partisanship in the American Public: Revisiting the 'Partisans without Constraint' Thesis"](https://osf.io/preprints/socarxiv/jex9k/)." Scripts should be run in following order.
 
 (1) __makeBaldGelData.R__      Makes main data set of inter-item correlations by year including item-domain indicators <br/>
 (2) __mixedFXsmoothsplines.R__      Mixed effects smoothing spline model for aggregate trend and graphs results <br/>
