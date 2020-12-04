@@ -1,4 +1,4 @@
-# repeoduce_partisans_ssr
+# reproduce_partisans_ssr
 
 Code to reproduce analyses in "[Issue Alignment and Partisanship in the American Public: Revisiting the 'Partisans without Constraint' Thesis](https://osf.io/preprints/socarxiv/jex9k/)." Scripts should be run in following order.
 
