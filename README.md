@@ -1,4 +1,4 @@
-# partisans_revisit
+# repeoduce_partisans_ssr
 
 Code to reproduce analyses in "[Issue Alignment and Partisanship in the American Public: Revisiting the 'Partisans without Constraint' Thesis](https://osf.io/preprints/socarxiv/jex9k/)." Scripts should be run in following order.
 
@@ -11,7 +11,7 @@ Code to reproduce analyses in "[Issue Alignment and Partisanship in the American
 
 <br/>
 
-All publish work was produced using R version 3.6.1. Versions of libaries used in model fitting: sme (v1.0.2); gamm4 (v0.2-6); mgcv (v1.8-28); lme4 (v1.1-23). <br/>
+All published results were produced using R version 3.6.1. Versions of libaries used in model fitting: sme (v1.0.2); gamm4 (v0.2-6); mgcv (v1.8-28); lme4 (v1.1-23). <br/>
 
 The scripts reference a top-level (i.e. this level) folder _data/_, which should store both the raw ANES election file input and the SQLite database created/modified in __makeBaldGelData.R__ and __subgroupData.R__. <br/>
 
